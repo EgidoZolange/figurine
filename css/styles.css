@@ -669,6 +669,7 @@ border: var(--border);
     }
 
     .header .search-form{
+        top: 12rem;
         width: 90%;
         right: 2rem;
 
