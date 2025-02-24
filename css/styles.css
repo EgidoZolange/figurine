@@ -133,6 +133,7 @@ section{
 
 .header .search-form{
     position: absolute;
+    top: 12rem;
     right: 7%;
     background-color: white;
     width: 50rem;
